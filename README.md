@@ -3,7 +3,7 @@ PDF转换成长图工具（JPG/JPEG）
 
 ### Demo
 
-![]()
+![MainConcept](https://github.com/whitelok/pdf-to-long-image/raw/main/demo/main_image_1.png)
 
 ### How to use
 
@@ -13,4 +13,6 @@ PDF转换成长图工具（JPG/JPEG）
  2. `cd pdf-to-long-image`
  3. `pip install -r requirements.txt`
  4. `python pdf-to-long-image.py --pdf_path PDF_PATH`
- 5. for example: `python pdf-to-long-image.py --pdf_path ./demo/demo.pdf`; then the output long image is in ./demo
+ 5. for example: `python pdf-to-long-image.py --pdf_path ./demo/demo.pdf`
+ 6. then the output long image is in ./demo like this
+![DemoResult](https://github.com/whitelok/pdf-to-long-image/raw/main/demo/main_image_2.png)
