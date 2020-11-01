@@ -1,5 +1,8 @@
 # Convert PDF to Long Image(JPG)
+
 PDF转换成长图工具（JPG/JPEG）
+
+PDF を画像ツールに変換します
 
 ### Demo
 
