@@ -4,13 +4,11 @@ PDF转换成长图工具（JPG/JPEG）
 
 PDF を画像ツールに変換します
 
-### Demo
-
 ![MainConcept](https://github.com/whitelok/pdf-to-long-image/raw/main/demo/main_image_1.png)
 
 ### How to use
 
-**Needed Python 3.5+**
+##### **Needed Python 3.5+**
 
  1. `git clone https://github.com/whitelok/pdf-to-long-image.git`
  2. `cd pdf-to-long-image`
